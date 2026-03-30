@@ -6,6 +6,8 @@
 
 **Logic Forge** is an interactive, browser-based digital logic circuit simulator that allows you to build, simulate, and analyze combinational logic circuits through an intuitive drag-and-drop interface. Design circuits using fundamental logic gates, connect them with wires, toggle inputs, and observe real-time outputs — all without writing a single line of code.
 
+<img width="1887" height="1025" alt="image" src="https://github.com/user-attachments/assets/b1d582c6-568d-4f63-b771-0b6dd2062e5e" />
+
 
 ##  Features
 
